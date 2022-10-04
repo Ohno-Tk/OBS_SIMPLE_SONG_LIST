@@ -1,0 +1,9 @@
+body {
+	padding-left: 30px;
+	font-size: 40px;
+}
+li {
+	list-style: "♬ ";/* リストのマーカー */
+	padding: 10px 15px 13px 15px;/* 上 | 右 | 下 | 左 */
+	color: #fff;/* フォントの色 */
+}
