@@ -1,7 +1,11 @@
 # SIMPLE SONG LIST
 歌配信で簡単に表示できるセトリ
 
+<img src="https://user-images.githubusercontent.com/51406176/194073408-0c3bbd8d-185d-462b-96d5-494d7208613d.jpg" width="50%" alt="見出し画像">
+
 # DEMO(デモ動画や図解)
+![デモ画面](https://user-images.githubusercontent.com/51406176/194074711-11f2df09-e8b6-4d8d-9e0b-522ea5bd7649.gif)
+
 
 # Features(セールスポイントや差別化)
 - テキストファイルから簡単に編集できる
