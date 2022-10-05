@@ -6,4 +6,6 @@ li {
 	list-style: "♬ ";/* リストのマーカー */
 	padding: 10px 15px 13px 15px;/* 上 | 右 | 下 | 左 */
 	color: #fff;/* フォントの色 */
+        font-family: 'Arial', sans-serif;
+        font-weight: bold;
 }
