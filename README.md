@@ -19,7 +19,7 @@
 - <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver2.2.4
 
 # Note(注意点など)
-
+[WIKIを参照してください](https://github.com/Ohno-Tk/OBS_Simple_Song_List/wiki)
 
 # Author(作成情報)
 - 作成者: Ohno-Tk
